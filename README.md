@@ -3,6 +3,11 @@ Practical Python Data Science Techniques
 
 Companion code for my video course on [Practical Python Data Science Techniques](https://www.packtpub.com/application-development/practical-python-data-science-techniques-video), published by Packt Publishing.
 
+Videos on [PacktPub's Mapt](https://www.packtpub.com/application-development/practical-python-data-science-techniques-video) (the publisher)
+
+Videos on [OReilly's Safari Online](https://www.safaribooksonline.com/library/view/practical-python-data/9781788294294/)
+
+
 Setting up the environment
 -----
 
